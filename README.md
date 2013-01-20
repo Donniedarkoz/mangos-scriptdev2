@@ -1,2 +1,0 @@
-mangos-scriptdev2
-=================
